@@ -1,0 +1,3 @@
+[submodule "codemotion-template"]
+	path = codemotion-template
+	url = git@github.com:emanuele-palazzetti/codemotion-template.git
