@@ -270,6 +270,24 @@ CONS
 * no contact forms (**FIX**: don't use them, it's so 2002)
 * no backoffice
 
+----
+
+A real story: evonove.it
+========================
+
+Massimiliano Pippi
+==================
+
+:: evonove.it
+=============
+
+CONS
+----
+
+* no comments to blog posts (**FIX**: disqus)
+* no contact forms (**FIX**: don't use them, it's so 2002)
+* no backoffice
+
 .. image:: /home/masci/devel/codemotion13/assets/regret_nothing.gif
 
 ----
